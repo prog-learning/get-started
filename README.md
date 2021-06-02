@@ -1,4 +1,4 @@
-# get-started
+# Get started
 説明と概要
 
 [Notion](https://www.notion.so/nobco/progLeaning-6e340c88d69b4e21990cbd40520b71fc)
